@@ -4,7 +4,7 @@ Link: https://online-note-277b0.web.app/ - The Basic Add Notes Site :D
 ### Main techs used in the project:
 * React (Javascript Library for building user interfaces)
 * Redux (Javascript Library for managing application state)
-* Firebase (A developed by Firebase, acquired by Google allow you to storage Database, run Authentication, free hosting,... on cloud)
+* Firebase (A mobile and web application development platform developed by Firebase, acquired by Google allow you to storage Database, run Authentication, free hosting,... on cloud)
 * HTML & CSS & Materialize(For responsive, markup, UI)
 ### Details project:
 * Using __React__ for the front-end, user interfaces(UI) of the site.
