@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68bbd156.chunk.css",
+    "main.js": "/static/js/main.1c1d3840.chunk.js",
+    "main.js.map": "/static/js/main.1c1d3840.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ee05479.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ee05479.js.map",
+    "static/js/2.ad1f6987.chunk.js": "/static/js/2.ad1f6987.chunk.js",
+    "static/js/2.ad1f6987.chunk.js.map": "/static/js/2.ad1f6987.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e837f2d1745e1104d59e13b75e1aa178.js": "/precache-manifest.e837f2d1745e1104d59e13b75e1aa178.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.68bbd156.chunk.css.map": "/static/css/main.68bbd156.chunk.css.map",
+    "static/js/2.ad1f6987.chunk.js.LICENSE.txt": "/static/js/2.ad1f6987.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/landscape-pic.d2348df0.jpg",
+    "static/media/online-note-logo.png": "/static/media/online-note-logo.e6e052cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ee05479.js",
+    "static/js/2.ad1f6987.chunk.js",
+    "static/css/main.68bbd156.chunk.css",
+    "static/js/main.1c1d3840.chunk.js"
+  ]
+}
